@@ -1,4 +1,4 @@
-# ashtool
+# Bashtool
 
 A lightweight and customizable **autograder for Bash scripts**, designed to evaluate user-submitted shell code against predefined test cases. Ideal for classrooms, coding bootcamps, and self-assessment.
 
