@@ -28,12 +28,12 @@ git clone git@github.com:techie-wrb/bashtool.git
 cd bashtool
 chmod +x grader.sh
 
-Adding Test Cases
+2. Adding Test Cases
 -Place input files in the tests/inputs/ directory (test1.in, test2.in, ...)
 
 -Place expected output files in the tests/outputs/ directory (test1.out, test2.out, ...)
 
-Usage
+3. Usage
 ```bash
 ./grader.sh path/to/your_script.sh
 
@@ -46,7 +46,7 @@ Running test case 2...
 
 Score: 1/2
 
-Project Structure
+4. Project Structure
 ```bash 
 bashtool/
 ├── grader.sh           # Main grading script
