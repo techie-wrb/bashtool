@@ -29,7 +29,7 @@ cd bashtool
 chmod +x grader.sh
 
 ## Adding Test Cases
--Place input files in the tests/inputs/ directory (test1.in, test2.in, ...)
+'''-Place input files in the tests/inputs/ directory (test1.in, test2.in, ...)
 
 -Place expected output files in the tests/outputs/ directory (test1.out, test2.out, ...)
 
