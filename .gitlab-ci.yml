@@ -1,0 +1,14 @@
+image: "git-docker.mst.edu/os/container"
+
+variables:
+  IS_PIPELINE: 1
+
+generaltester:
+  script:
+  - bash grade.sh
+  timeout: 2 hours 30 minutes
+  artifacts:
+    when: always
+    paths:
+      - results.txt
+    expire_in: 1 month

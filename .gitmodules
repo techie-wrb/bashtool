@@ -1,0 +1,6 @@
+[submodule "linux_config"]
+	path = submodules/linux_config
+	url = https://git.mst.edu/os/linux_config.git
+[submodule "container"]
+	path = submodules/container
+	url = https://git.mst.edu/os/container.git
